@@ -4,8 +4,8 @@
 SoftwareSerial NodeMCU(D1,D2); //Rx, Tx pins
 
 // Network ID
-const char* ssid     = "eddiechin999@unifi";
-const char* password = "qwerasdf";
+const char* ssid     = "";
+const char* password = "";
 //const char* host = "103.219.237.26";
 const char* host = "lrgs.ftsm.ukm.my";
 const int port = 80;
